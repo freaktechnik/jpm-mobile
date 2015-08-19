@@ -15,5 +15,6 @@
   "browser.console.showInPanel": true,
   "browser.dom.window.dump.enabled": true,
   "extensions.enabledScopes": 5,
-  "extensions.autoDisableScopes": 10
+  "extensions.autoDisableScopes": 10,
+  "xpinstall.signatures.required" : false
 }
